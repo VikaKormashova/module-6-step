@@ -1,0 +1,7 @@
+a = abs(float(input()))
+b = abs(float(input()))
+c = abs(float(input()))
+d = abs(float(input()))
+e = abs(float(input()))
+# Вычисляем сумму абсолютных значений введенных чисел 'a', 'b', 'c', 'd' и 'e', и выводим результат на экран.
+print(a + b + c + d + e)
